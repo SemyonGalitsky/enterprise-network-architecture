@@ -15,7 +15,7 @@ This repository contains the baseline architecture for a highly available, deepl
 
 ## Network Topology
 
-_(Insert your screenshot here: `![Topology](./Diagrams/topology.png)`)_
+![Topology](./Diagrams/topology.png)
 
 ## Device Configurations
 
